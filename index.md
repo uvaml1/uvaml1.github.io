@@ -1,7 +1,3 @@
-<p align="center" width="100%">
-    <img width="40%" src="images/UvA_IvI_logo.png">      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <img width="13%" src="images/AMLab_logo.png"> 
-</p>
-
 ## UvA - Machine Learning 1
 
 Welcome to the public page for the course Machine Learning 1. The course is part of the [Artificial Intelligence master program](https://www.uva.nl/en/programmes/masters/artificial-intelligence/artificial-intelligence.html) at the [University of Amsterdam](https://www.uva.nl/en). The course is developed by the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl) and currently taught by [dr.ir. Erik Bekkers](https://scholar.google.com/citations?hl=en&user=yeWrfR4AAAAJ&view_op=list_works&sortby=pubdate).
@@ -9,6 +5,10 @@ Welcome to the public page for the course Machine Learning 1. The course is part
 This page presents an overview of the course including links to the lectures ([this Youtube channel](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n)) and the corresponding annotated slides in pdf. Students enrolled for the course are referred to Canvas for extra materials such as practice exercises, homework assignments, lab assignments (jupyter notebooks) and additional resources.
 
 In this lecture series we follow closely the [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) book by Bishop. Relevant chapters are indicated at the start of each video.
+
+<p align="center" width="100%">
+    <img width="40%" src="images/UvA_IvI_logo.png">      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <img width="13%" src="images/AMLab_logo.png"> 
+</p>
 
 ### Weekly overview
 
