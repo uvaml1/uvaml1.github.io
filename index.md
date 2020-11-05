@@ -9,7 +9,7 @@ In this lecture series we follow closely the Pattern Recognition and Machine Lea
 ### Weekly overview
 
 #### Week 1
-- Lecture 1.1 (video, pdf): Introduction to the course, administrative announcements
+- Lecture 1.1 (video, [pdf](2020/slides/1.1_CourseInformation.pdf)): Introduction to the course, administrative announcements
 - Lecture 1.2 (video, pdf): What is Machine Learning?
 - Lecture 1.3 (video, pdf): Types of Machine Learning
 - Lecture 1.4 (video, pdf): Probability Theory, Bayes Theorem
