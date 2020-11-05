@@ -6,6 +6,13 @@ This page presents an overview of the course including links to the lectures ([t
 
 In this lecture series we follow closely the [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) book by Bishop. Relevant chapters are indicated at the start of each video.
 
+<p align="center" width="100%">
+    <img width="35%" src="images/UvA_IvI_logo.png"> 
+</p>
+<p align="center" width="100%">
+    <img width="15%" src="images/AMLab_logo.png"> 
+</p>
+
 ### Weekly overview
 
 #### Week 1
@@ -20,7 +27,7 @@ In this lecture series we follow closely the [Pattern Recognition and Machine Le
 - Lecture 2.3 ([video](https://www.youtube.com/watch?v=UwulvIiS40M&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=8), [pdf](2020/slides/2.3_MaximumLikelihood.pdf)): Maximum Likelihood Estimation
 - Lecture 2.4 ([video](https://www.youtube.com/watch?v=Esr5MvJioUY&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=9), [pdf](2020/slides/2.4_MaximumLikelihoodExample.pdf)): Maximum Likelihood Estimation: An Example
 - Lecture 2.5 ([video](https://www.youtube.com/watch?v=4bvuBaDhQ4M&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=10), [pdf](2020/slides/2.5_MaximumAPosteriori.pdf)): Maximum A Posteriori
-- Lecture 2.6 ([video](https://www.youtube.com/watch?v=5Zo6WxRyJW0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=11), [pdf](2020/slides/2.6_BayesianPrediction.pdf)): Bayesian PredictionWeek 2
+- Lecture 2.6 ([video](https://www.youtube.com/watch?v=5Zo6WxRyJW0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=11), [pdf](2020/slides/2.6_BayesianPrediction.pdf)): Bayesian Prediction
 
 #### Week 2
 - Lecture 3.1 (video, [pdf](2020/slides/3.1_LinearRegressionWithBasisFunctions.pdf)): Linear Regression With Basis Functions
