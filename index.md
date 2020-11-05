@@ -9,18 +9,18 @@ In this lecture series we follow closely the Pattern Recognition and Machine Lea
 ### Weekly overview
 
 #### Week 1
-- Lecture 1.1 (video, [pdf](2020/slides/1.1_CourseInformation.pdf)): Introduction to the course, administrative announcements
-- Lecture 1.2 (video, [pdf](2020/slides/1.2_WhatIsMachineLearning.pdf)): What is Machine Learning?
-- Lecture 1.3 (video, [pdf](2020/slides/1.3_TypesOfMachineLearning.pdf)): Types of Machine Learning
-- Lecture 1.4 (video, [pdf](2020/slides/1.4_ProbabilityTheoryBayes.pdf)): Probability Theory, Bayes Theorem
-- Lecture 1.5 (video, [pdf](2020/slides/1.5_ProbabilityTheoryExample.pdf)): Probability Theory: An Example
+- Lecture 1.1 ([video](https://www.youtube.com/watch?v=db-dvnUZHpQ&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=1), [pdf](2020/slides/1.1_CourseInformation.pdf)): Introduction to the course, administrative announcements
+- Lecture 1.2 ([video](https://www.youtube.com/watch?v=_XmGyd4smUs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=2), [pdf](2020/slides/1.2_WhatIsMachineLearning.pdf)): What is Machine Learning?
+- Lecture 1.3 ([video](https://www.youtube.com/watch?v=ieAzK_Q2QHk&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=3), [pdf](2020/slides/1.3_TypesOfMachineLearning.pdf)): Types of Machine Learning
+- Lecture 1.4 ([video](https://www.youtube.com/watch?v=0fCTk5ElCqg&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=4), [pdf](2020/slides/1.4_ProbabilityTheoryBayes.pdf)): Probability Theory, Bayes Theorem
+- Lecture 1.5 ([video](https://www.youtube.com/watch?v=pO2bnMvkTT0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=5), [pdf](2020/slides/1.5_ProbabilityTheoryExample.pdf)): Probability Theory: An Example
 
-- Lecture 2.1 (video, [pdf](2020/slides/2.1_ExpectationVariance.pdf)): Expectation, Variance, Covariance
-- Lecture 2.2 (video, [pdf](2020/slides/2.2_Gaussian.pdf)): Gaussian Distribution
-- Lecture 2.3 (video, [pdf](2020/slides/2.3_MaximumLikelihood.pdf)): Maximum Likelihood Estimation
-- Lecture 2.4 (video, [pdf](2020/slides/2.4_MaximumLikelihoodExample.pdf)): Maximum Likelihood Estimation: An Example
-- Lecture 2.5 (video, [pdf](2020/slides/2.5_MaximumAPosteriori.pdf)): Maximum A Posteriori
-- Lecture 2.6 (video, [pdf](2020/slides/2.6_BayesianPrediction.pdf)): Bayesian PredictionWeek 2
+- Lecture 2.1 ([video](https://www.youtube.com/watch?v=NUVrZ1WvO-Q&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=6), [pdf](2020/slides/2.1_ExpectationVariance.pdf)): Expectation, Variance, Covariance
+- Lecture 2.2 ([video](https://www.youtube.com/watch?v=VX1vEKxQCEo&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=7), [pdf](2020/slides/2.2_Gaussian.pdf)): Gaussian Distribution
+- Lecture 2.3 ([video](https://www.youtube.com/watch?v=UwulvIiS40M&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=8), [pdf](2020/slides/2.3_MaximumLikelihood.pdf)): Maximum Likelihood Estimation
+- Lecture 2.4 ([video](https://www.youtube.com/watch?v=Esr5MvJioUY&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=9), [pdf](2020/slides/2.4_MaximumLikelihoodExample.pdf)): Maximum Likelihood Estimation: An Example
+- Lecture 2.5 ([video](https://www.youtube.com/watch?v=4bvuBaDhQ4M&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=10), [pdf](2020/slides/2.5_MaximumAPosteriori.pdf)): Maximum A Posteriori
+- Lecture 2.6 ([video](https://www.youtube.com/watch?v=5Zo6WxRyJW0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=11), [pdf](2020/slides/2.6_BayesianPrediction.pdf)): Bayesian PredictionWeek 2
 
 #### Week 2
 - Lecture 3.1 (video, [pdf](2020/slides/3.1_LinearRegressionWithBasisFunctions.pdf)): Linear Regression With Basis Functions
