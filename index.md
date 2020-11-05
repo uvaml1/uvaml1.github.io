@@ -23,71 +23,71 @@ In this lecture series we follow closely the Pattern Recognition and Machine Lea
 - Lecture 2.6 (video, [pdf](2020/slides/2.6_BayesianPrediction.pdf)): Bayesian PredictionWeek 2
 
 #### Week 2
-- Lecture 3.1 (video, pdf): Linear Regression With Basis Functions
-- Lecture 3.2 (video, pdf): Linear Regression via Maximum Likelihood
-- Lecture 3.3 (video, pdf): Stochastic Gradient Descent
-- Lecture 3.4 (video, pdf): Underfitting and Overfitting
-- Lecture 3.5 (video, pdf): Regularized Least Squares
+- Lecture 3.1 (video, [pdf](2020/slides/3.1_LinearRegressionWithBasisFunctions.pdf)): Linear Regression With Basis Functions
+- Lecture 3.2 (video, [pdf](2020/slides/3.2_LinearRegressionViaMaximumLikelihood.pdf)): Linear Regression via Maximum Likelihood
+- Lecture 3.3 (video, [pdf](2020/slides/3.3_StochasticGradientDescent.pdf)): Stochastic Gradient Descent
+- Lecture 3.4 (video, [pdf](2020/slides/3.4_UnderfittingOverfitting.pdf)): Underfitting and Overfitting
+- Lecture 3.5 (video, [pdf](2020/slides/3.5_RegularizedLeastSquares.pdf)): Regularized Least Squares
 
-- Lecture 4.1 (video, pdf): Model Selection
-- Lecture 4.2 (video, pdf): Bias Variance Decomposition
-- Lecture 4.3 (video, pdf): Gaussian Posteriors
-- Lecture 4.4 (video, pdf): Sequential Bayesian Learning
-- Lecture 4.5 (video, pdf): Bayesian Predictive Distributions
+- Lecture 4.1 (video, [pdf](2020/slides/4.1_ModelSelection.pdf)): Model Selection
+- Lecture 4.2 (video, [pdf](2020/slides/4.2_BiasVarianceDecomposition.pdf)): Bias Variance Decomposition
+- Lecture 4.3 (video, [pdf](2020/slides/4.3_GaussianPosteriors.pdf)): Gaussian Posteriors
+- Lecture 4.4 (video, [pdf](2020/slides/4.4_SequentialBayesianLearning.pdf)): Sequential Bayesian Learning
+- Lecture 4.5 (video, [pdf](2020/slides/4.5_BayesianPredictiveDistributions.pdf)): Bayesian Predictive Distributions
 
 #### Week 3
-- Lecture 5.1 (video, pdf): Equivalent Kernel
-- Lecture 5.2 (video, pdf): Bayesian Model Comparison
-- Lecture 5.3 (video, pdf): Model Evidence Approximation/Empirical Bayes
-- Lecture 5.4 (video, pdf): Classification With Decision Regions
-- Lecture 5.5 (video, pdf): Decision Theory
-- Lecture 5.6 (video, pdf): Probabilistic Generative Models
+- Lecture 5.1 (video, [pdf](2020/slides/5.1_EquivalentKernel.pdf)): Equivalent Kernel
+- Lecture 5.2 (video, [pdf](2020/slides/5.2_BayesianModelComparison.pdf)): Bayesian Model Comparison
+- Lecture 5.3 (video, [pdf](2020/slides/5.3_ModelEvidenceApproximationEmpiricalBayes.pdf)): Model Evidence Approximation/Empirical Bayes
+- Lecture 5.4 (video, [pdf](2020/slides/5.4_ClassificationWithDecisionRegions.pdf)): Classification With Decision Regions
+- Lecture 5.5 (video, [pdf](2020/slides/5.5_DecisionTheory.pdf)): Decision Theory
+- Lecture 5.6 (video, [pdf](2020/slides/5.6_ProbabilisticGenerativeModels.pdf)): Probabilistic Generative Models
 
-- Lecture 6.1 (video, pdf, note): Probabilistic Generative Models: Maximum Likelihood
-- Lecture 6.2 (video, pdf): Probabilistic Generative Models: Discrete Data (Naive Bayes)
-- Lecture 6.3 (video, pdf): Discriminant Functions
-- Lecture 6.4 (video, pdf): Discriminant Functions: Least Squares Regression
-- Lecture 6.5 (video, pdf): Discriminant Functions: Perceptron
+- Lecture 6.1 (video, [pdf](2020/slides/6.1_PGMMaximumLikelihood.pdf), note): Probabilistic Generative Models: Maximum Likelihood
+- Lecture 6.2 (video, [pdf](2020/slides/6.2_PGMDiscreteData.pdf)): Probabilistic Generative Models: Discrete Data (Naive Bayes)
+- Lecture 6.3 (video, [pdf](2020/slides/6.3_DiscriminantFunctions.pdf)): Discriminant Functions
+- Lecture 6.4 (video, [pdf](2020/slides/6.4_DiscriminantFunctionsLeastSquaresRegression.pdf)): Discriminant Functions: Least Squares Regression
+- Lecture 6.5 (video, [pdf](2020/slides/6.5_DiscriminantFunctionsPerceptron.pdf)): Discriminant Functions: Perceptron
 
 #### Week 4
-- Lecture 7.1 (video, pdf): Classification With Basis Functions
-- Lecture 7.2 (video, pdf): Probabilistic Discriminative Models: Logistic Regression
-- Lecture 7.3 (video, pdf): Logistic Regression: Stochastic Gradient Descent
-- Lecture 7.4 (video, pdf): Logistic Regression: Newton Raphson
+- Lecture 7.1 (video, [pdf](2020/slides/7.1_ClassificationWithBasisFunctions.pdf)): Classification With Basis Functions
+- Lecture 7.2 (video, [pdf](2020/slides/7.2_ProbabilisticDiscriminativeModelsLogisticRegression.pdf)): Probabilistic Discriminative Models: Logistic Regression
+- Lecture 7.3 (video, [pdf](2020/slides/7.3_LogisticRegressioStochasticGradientDescent.pdf)): Logistic Regression: Stochastic Gradient Descent
+- Lecture 7.4 (video, [pdf](2020/slides/7.4_LogisticRegressionNewtonRaphson.pdf)): Logistic Regression: Newton Raphson
 
-- Lecture 8.1 (video, pdf): Neural Networks
-- Lecture 8.2 (video, pdf): Neural Networks: Universal Approximation Theorem
-- Lecture 8.3 (video, pdf): Neural Networks: Losses
-- Lecture 8.4 (video, pdf): Neural Networks: Stochastic Gradient Descent
-- Lecture 8.5 (video, pdf): Neural Networks: Backpropagation
+- Lecture 8.1 (video, [pdf](2020/slides/8.1_NeuralNetworks.pdf)): Neural Networks
+- Lecture 8.2 (video, [pdf](2020/slides/8.2_NeuralNetworksUniversalApproximationTheorem.pdf)): Neural Networks: Universal Approximation Theorem
+- Lecture 8.3 (video, [pdf](2020/slides/8.3_NeuralNetworkLosses.pdf)): Neural Networks: Losses
+- Lecture 8.4 (video, [pdf](2020/slides/8.4_NeuralNetworksStochasticGradientDescent.pdf)): Neural Networks: Stochastic Gradient Descent
+- Lecture 8.5 (video, [pdf](2020/slides/8.5_NeuralNetworkBackpropagation.pdf)): Neural Networks: Backpropagation
 
 #### Week 5
-- Lecture 9.1 (video, pdf): Unsupervised Learning - Latent Variable Models
-- Lecture 9.2 (video, pdf): K-Means Clustering
-- Lecture 9.3 (video, pdf): Lagrange Multipliers
-- Lecture 9.4 (video, pdf): Gaussian Mixture Models and The Expectation Maximization Algorithm
+- Lecture 9.1 (video, [pdf](2020/slides/9.1_UnsupervisedLearningLatentVariableModels.pdf)): Unsupervised Learning - Latent Variable Models
+- Lecture 9.2 (video, [pdf](2020/slides/9.2_KMeansClustering.pdf)): K-Means Clustering
+- Lecture 9.3 (video, [pdf](2020/slides/9.3_IntermezzoLagrangeMultipliers.pdf)): Lagrange Multipliers
+- Lecture 9.4 (video, [pdf](2020/slides/9.4_GaussianMixtureModelsExpectationMaximization.pdf)): Gaussian Mixture Models and The Expectation Maximization Algorithm
 
-- Lecture 10.1 (video, pdf): Principal Component Analysis: Maximum Variance
-- Lecture 10.2 (video, pdf): Principal Component Analysis: Minimum Reconstruction Error
-- Lecture 10.3 (video, pdf): Probabilistic Principal Component Analysis
-- Lecture 10.4 (video, pdf): Non-Linear Principal Component Analysis (Kernel-PCA and Auto-Encoders)
+- Lecture 10.1 (video, [pdf](2020/slides/10.1_PrincipalComponentAnalysisMaximumVariance.pdf)): Principal Component Analysis: Maximum Variance
+- Lecture 10.2 (video, [pdf](2020/slides/10.2_PrincipalComponentAnalysisMinimalReconstructionError.pdf)): Principal Component Analysis: Minimum Reconstruction Error
+- Lecture 10.3 (video, [pdf](2020/slides/10.3_ProbabilisticPrincipalComponentAnalysis.pdf)): Probabilistic Principal Component Analysis
+- Lecture 10.4 (video, [pdf](2020/slides/10.4_NonLinearPrincipalComponentAnalysis.pdf)): Non-Linear Principal Component Analysis (Kernel-PCA and Auto-Encoders)
 
 #### Week 6
-- Lecture 11.1 (video, pdf): Kernelizing Linear Models
-- Lecture 11.2 (video, pdf): The Kernel Trick
-- Lecture 11.3 (video, pdf): Support Vector Machines: Maximum Margin Classifiers
-- Lecture 11.4 (video, pdf): Inequality Constraint Optimization (The Dual Lagrangian)
-- Lecture 11.5 (video, pdf): Support Vector Machines: Kernel SVM
-- Lecture 11.6 (video, pdf): Support Vector Machines: Soft Margin Classifiers
+- Lecture 11.1 (video, [pdf](2020/slides/11.1_KernelizingLinearModels.pdf)): Kernelizing Linear Models
+- Lecture 11.2 (video, [pdf](2020/slides/11.2_TheKernelTrick.pdf)): The Kernel Trick
+- Lecture 11.3 (video, [pdf](2020/slides/11.3_SupportVectorMachinesMaximumMarginClassifiers.pdf)): Support Vector Machines: Maximum Margin Classifiers
+- Lecture 11.4 (video, [pdf](2020/slides/11.4_IntermezzoInequalityConstraintOptimization.pdf)): Inequality Constraint Optimization (The Dual Lagrangian)
+- Lecture 11.5 (video, [pdf](2020/slides/11.5_SupportVectorMachinesKernelSVM.pdf)): Support Vector Machines: Kernel SVM
+- Lecture 11.6 (video, [pdf](2020/slides/11.6_SupportVectorMachinesSoftMarginClassifiers.pdf)): Support Vector Machines: Soft Margin Classifiers
 
-- Lecture 12.1 (video, pdf): Some Useful Properties of Gaussians
-- Lecture 12.2 (video, pdf): Kernelizing Bayesian Regression
-- Lecture 12.3 (video, pdf): Gaussian Processes
-- Lecture 12.4 (video, pdf): Gaussian Processes: With An Exponential Kernel
-- Lecture 12.5 (video, pdf): Gaussian Processes: Regression
+- Lecture 12.1 (video, [pdf](2020/slides/12.1_SomePropertiesOfGaussianDistributions.pdf)): Some Useful Properties of Gaussians
+- Lecture 12.2 (video, [pdf](2020/slides/12.2_KernelizingBayesianRegression.pdf)): Kernelizing Bayesian Regression
+- Lecture 12.3 (video, [pdf](2020/slides/12.3_GaussianProcesses.pdf)): Gaussian Processes
+- Lecture 12.4 (video, [pdf](2020/slides/12.4_GaussianProcessesWithAnExponentialKernel.pdf)): Gaussian Processes: With An Exponential Kernel
+- Lecture 12.5 (video, [pdf](2020/slides/12.5_GaussianProcessesRegression.pdf)): Gaussian Processes: Regression
 
 #### Week 7
-- Lecture 13.1 (video, pdf): Model Combination Methods (vs Bayesian Model Averaging)
-- Lecture 13.2 (video, pdf): Bootstrapping and Feature Bagging
-- Lecture 13.3 (video, pdf): Adaboost
-- Lecture 13.4 (video, pdf): Decision Trees and Random Forests
+- Lecture 13.1 (video, [pdf](2020/slides/13.1_ModelCombinationMethodsVsBayesianModelAveraging.pdf)): Model Combination Methods (vs Bayesian Model Averaging)
+- Lecture 13.2 (video, [pdf](2020/slides/13.2_BootstrappingAndFeatureBagging.pdf)): Bootstrapping and Feature Bagging
+- Lecture 13.3 (video, [pdf](2020/slides/13.3_Boosting.pdf)): Adaboost
+- Lecture 13.4 (video, [pdf](2020/slides/13.4_DecisionTreesAndRandomForests.pdf)): Decision Trees and Random Forests
