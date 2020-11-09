@@ -15,7 +15,7 @@ The contents of this page and the video lectures are licensed under a [Creative 
 ### Weekly overview
 
 #### Week 1
-- Lecture 1.1 ([video](https://www.youtube.com/watch?v=db-dvnUZHpQ&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=1), [pdf](2020/slides/1.1_CourseInformation.pdf)): Introduction to the course, administrative announcements
+- Lecture 1.1 (~~video~~, [pdf](2020/slides/1.1_CourseInformation.pdf)): Introduction to the course, administrative announcements
 - Lecture 1.2 ([video](https://www.youtube.com/watch?v=_XmGyd4smUs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=2), [pdf](2020/slides/1.2_WhatIsMachineLearning.pdf)): What is Machine Learning?
 - Lecture 1.3 ([video](https://www.youtube.com/watch?v=ieAzK_Q2QHk&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=3), [pdf](2020/slides/1.3_TypesOfMachineLearning.pdf)): Types of Machine Learning
 - Lecture 1.4 ([video](https://www.youtube.com/watch?v=0fCTk5ElCqg&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=4), [pdf](2020/slides/1.4_ProbabilityTheoryBayes.pdf)): Probability Theory, Bayes Theorem
