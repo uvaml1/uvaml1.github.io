@@ -6,6 +6,8 @@ This page presents an overview of the course including links to the lectures ([t
 
 In this lecture series we follow closely the [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) book by Bishop. Relevant chapters are indicated at the start of each video.
 
+The contents of this page and the video lectures are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 <p align="center" width="100%">
     <img width="40%" src="images/UvA_IvI_logo.png">      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <img width="13%" src="images/AMLab_logo.png"> 
 </p>
@@ -27,17 +29,17 @@ In this lecture series we follow closely the [Pattern Recognition and Machine Le
 - Lecture 2.6 ([video](https://www.youtube.com/watch?v=5Zo6WxRyJW0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=11), [pdf](2020/slides/2.6_BayesianPrediction.pdf)): Bayesian Prediction
 
 #### Week 2
-- Lecture 3.1 (video, [pdf](2020/slides/3.1_LinearRegressionWithBasisFunctions.pdf)): Linear Regression With Basis Functions
-- Lecture 3.2 (video, [pdf](2020/slides/3.2_LinearRegressionViaMaximumLikelihood.pdf)): Linear Regression via Maximum Likelihood
-- Lecture 3.3 (video, [pdf](2020/slides/3.3_StochasticGradientDescent.pdf)): Stochastic Gradient Descent
-- Lecture 3.4 (video, [pdf](2020/slides/3.4_UnderfittingOverfitting.pdf)): Underfitting and Overfitting
-- Lecture 3.5 (video, [pdf](2020/slides/3.5_RegularizedLeastSquares.pdf)): Regularized Least Squares
+- Lecture 3.1 ([video](https://www.youtube.com/watch?v=sfLm09wqSVk&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=11), [pdf](2020/slides/3.1_LinearRegressionWithBasisFunctions.pdf)): Linear Regression With Basis Functions
+- Lecture 3.2 ([video](https://www.youtube.com/watch?v=u6T2d4AzsDM&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=12), [pdf](2020/slides/3.2_LinearRegressionViaMaximumLikelihood.pdf)): Linear Regression via Maximum Likelihood
+- Lecture 3.3 ([video](https://www.youtube.com/watch?v=Yns37Zp2G2o&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=13), [pdf](2020/slides/3.3_StochasticGradientDescent.pdf)): Stochastic Gradient Descent
+- Lecture 3.4 ([video](https://www.youtube.com/watch?v=sGWhUfjXwGc&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=14), [pdf](2020/slides/3.4_UnderfittingOverfitting.pdf)): Underfitting and Overfitting
+- Lecture 3.5 ([video](https://www.youtube.com/watch?v=B5Rd2ctb_kg&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=15), [pdf](2020/slides/3.5_RegularizedLeastSquares.pdf)): Regularized Least Squares
 
-- Lecture 4.1 (video, [pdf](2020/slides/4.1_ModelSelection.pdf)): Model Selection
-- Lecture 4.2 (video, [pdf](2020/slides/4.2_BiasVarianceDecomposition.pdf)): Bias Variance Decomposition
-- Lecture 4.3 (video, [pdf](2020/slides/4.3_GaussianPosteriors.pdf)): Gaussian Posteriors
-- Lecture 4.4 (video, [pdf](2020/slides/4.4_SequentialBayesianLearning.pdf)): Sequential Bayesian Learning
-- Lecture 4.5 (video, [pdf](2020/slides/4.5_BayesianPredictiveDistributions.pdf)): Bayesian Predictive Distributions
+- Lecture 4.1 ([video](https://www.youtube.com/watch?v=vNgHUeF3I00&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=16), [pdf](2020/slides/4.1_ModelSelection.pdf)): Model Selection
+- Lecture 4.2 ([video](https://www.youtube.com/watch?v=q-17mNhq4rM&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=17), [pdf](2020/slides/4.2_BiasVarianceDecomposition.pdf)): Bias Variance Decomposition
+- Lecture 4.3 ([video](https://www.youtube.com/watch?v=0y5d5r7A2ck&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=18), [pdf](2020/slides/4.3_GaussianPosteriors.pdf)): Gaussian Posteriors
+- Lecture 4.4 ([video](https://www.youtube.com/watch?v=Wehi81L66Ts&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=19), [pdf](2020/slides/4.4_SequentialBayesianLearning.pdf)): Sequential Bayesian Learning
+- Lecture 4.5 ([video](https://www.youtube.com/watch?v=ZyFQqd8r5Nw&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=20), [pdf](2020/slides/4.5_BayesianPredictiveDistributions.pdf)): Bayesian Predictive Distributions
 
 #### Week 3
 - Lecture 5.1 (video, [pdf](2020/slides/5.1_EquivalentKernel.pdf)): Equivalent Kernel
