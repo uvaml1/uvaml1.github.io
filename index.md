@@ -42,30 +42,30 @@ The contents of this page and the video lectures are licensed under a [Creative 
 - Lecture 4.5 ([video](https://www.youtube.com/watch?v=ZyFQqd8r5Nw&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=20), [pdf](2020/slides/4.5_BayesianPredictiveDistributions.pdf)): Bayesian Predictive Distributions
 
 #### Week 3
-- Lecture 5.1 (video, [pdf](2020/slides/5.1_EquivalentKernel.pdf)): Equivalent Kernel
-- Lecture 5.2 (video, [pdf](2020/slides/5.2_BayesianModelComparison.pdf)): Bayesian Model Comparison
-- Lecture 5.3 (video, [pdf](2020/slides/5.3_ModelEvidenceApproximationEmpiricalBayes.pdf)): Model Evidence Approximation/Empirical Bayes
-- Lecture 5.4 (video, [pdf](2020/slides/5.4_ClassificationWithDecisionRegions.pdf)): Classification With Decision Regions
-- Lecture 5.5 (video, [pdf](2020/slides/5.5_DecisionTheory.pdf)): Decision Theory
-- Lecture 5.6 (video, [pdf](2020/slides/5.6_ProbabilisticGenerativeModels.pdf)): Probabilistic Generative Models
+- Lecture 5.1 ([video](https://www.youtube.com/watch?v=ZxqOANjN2oM&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=21), [pdf](2020/slides/5.1_EquivalentKernel.pdf)): Equivalent Kernel
+- Lecture 5.2 ([video](https://www.youtube.com/watch?v=1U9VAY8d33I&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=22), [pdf](2020/slides/5.2_BayesianModelComparison.pdf)): Bayesian Model Comparison
+- Lecture 5.3 ([video](https://www.youtube.com/watch?v=kBt9hPNxpI8&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=23), [pdf](2020/slides/5.3_ModelEvidenceApproximationEmpiricalBayes.pdf)): Model Evidence Approximation/Empirical Bayes
+- Lecture 5.4 ([video](https://www.youtube.com/watch?v=c4GHglmSUPc&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=24), [pdf](2020/slides/5.4_ClassificationWithDecisionRegions.pdf)): Classification With Decision Regions
+- Lecture 5.5 ([video](https://www.youtube.com/watch?v=jrRYLytbbfU&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=25), [pdf](2020/slides/5.5_DecisionTheory.pdf)): Decision Theory
+- Lecture 5.6 ([video](https://www.youtube.com/watch?v=oPcppe5rrew&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=26), [pdf](2020/slides/5.6_ProbabilisticGenerativeModels.pdf)): Probabilistic Generative Models
 
-- Lecture 6.1 (video, [pdf](2020/slides/6.1_PGMMaximumLikelihood.pdf), note): Probabilistic Generative Models: Maximum Likelihood
-- Lecture 6.2 (video, [pdf](2020/slides/6.2_PGMDiscreteData.pdf)): Probabilistic Generative Models: Discrete Data (Naive Bayes)
-- Lecture 6.3 (video, [pdf](2020/slides/6.3_DiscriminantFunctions.pdf)): Discriminant Functions
-- Lecture 6.4 (video, [pdf](2020/slides/6.4_DiscriminantFunctionsLeastSquaresRegression.pdf)): Discriminant Functions: Least Squares Regression
-- Lecture 6.5 (video, [pdf](2020/slides/6.5_DiscriminantFunctionsPerceptron.pdf)): Discriminant Functions: Perceptron
+- Lecture 6.1 ([video](https://www.youtube.com/watch?v=R6yNZ4diIQo&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=27), [pdf](2020/slides/6.1_PGMMaximumLikelihood.pdf), note): Probabilistic Generative Models: Maximum Likelihood
+- Lecture 6.2 ([video](https://www.youtube.com/watch?v=-5NiWddslNc&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=28), [pdf](2020/slides/6.2_PGMDiscreteData.pdf)): Probabilistic Generative Models: Discrete Data (Naive Bayes)
+- Lecture 6.3 ([video](https://www.youtube.com/watch?v=icgwGh6Rq_o&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=29), [pdf](2020/slides/6.3_DiscriminantFunctions.pdf)): Discriminant Functions
+- Lecture 6.4 ([video](https://www.youtube.com/watch?v=QiQmHzd9QfA&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=30), [pdf](2020/slides/6.4_DiscriminantFunctionsLeastSquaresRegression.pdf)): Discriminant Functions: Least Squares Regression
+- Lecture 6.5 ([video](https://www.youtube.com/watch?v=m9qgbaAZ1bo&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=31), [pdf](2020/slides/6.5_DiscriminantFunctionsPerceptron.pdf)): Discriminant Functions: Perceptron
 
 #### Week 4
-- Lecture 7.1 (video, [pdf](2020/slides/7.1_ClassificationWithBasisFunctions.pdf)): Classification With Basis Functions
-- Lecture 7.2 (video, [pdf](2020/slides/7.2_ProbabilisticDiscriminativeModelsLogisticRegression.pdf)): Probabilistic Discriminative Models: Logistic Regression
-- Lecture 7.3 (video, [pdf](2020/slides/7.3_LogisticRegressioStochasticGradientDescent.pdf)): Logistic Regression: Stochastic Gradient Descent
-- Lecture 7.4 (video, [pdf](2020/slides/7.4_LogisticRegressionNewtonRaphson.pdf)): Logistic Regression: Newton Raphson
+- Lecture 7.1 ([video](https://www.youtube.com/watch?v=IQJTlUvATbs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=32), [pdf](2020/slides/7.1_ClassificationWithBasisFunctions.pdf)): Classification With Basis Functions
+- Lecture 7.2 ([video](https://www.youtube.com/watch?v=HKU9Mp__rYg&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=33), [pdf](2020/slides/7.2_ProbabilisticDiscriminativeModelsLogisticRegression.pdf)): Probabilistic Discriminative Models: Logistic Regression
+- Lecture 7.3 ([video](https://www.youtube.com/watch?v=nMrGFegAPd0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=34), [pdf](2020/slides/7.3_LogisticRegressioStochasticGradientDescent.pdf)): Logistic Regression: Stochastic Gradient Descent
+- Lecture 7.4 ([video](https://www.youtube.com/watch?v=cXiqYer7nk0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=35), [pdf](2020/slides/7.4_LogisticRegressionNewtonRaphson.pdf)): Logistic Regression: Newton Raphson
 
-- Lecture 8.1 (video, [pdf](2020/slides/8.1_NeuralNetworks.pdf)): Neural Networks
-- Lecture 8.2 (video, [pdf](2020/slides/8.2_NeuralNetworksUniversalApproximationTheorem.pdf)): Neural Networks: Universal Approximation Theorem
-- Lecture 8.3 (video, [pdf](2020/slides/8.3_NeuralNetworkLosses.pdf)): Neural Networks: Losses
-- Lecture 8.4 (video, [pdf](2020/slides/8.4_NeuralNetworksStochasticGradientDescent.pdf)): Neural Networks: Stochastic Gradient Descent
-- Lecture 8.5 (video, [pdf](2020/slides/8.5_NeuralNetworkBackpropagation.pdf)): Neural Networks: Backpropagation
+- Lecture 8.1 ([video](https://www.youtube.com/watch?v=tIsyNTOIbyc&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=36), [pdf](2020/slides/8.1_NeuralNetworks.pdf)): Neural Networks
+- Lecture 8.2 ([video](https://www.youtube.com/watch?v=XzVYb59oJVY&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=37), [pdf](2020/slides/8.2_NeuralNetworksUniversalApproximationTheorem.pdf)): Neural Networks: Universal Approximation Theorem
+- Lecture 8.3 ([video](https://www.youtube.com/watch?v=S_M-Oo8jEQo&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=38), [pdf](2020/slides/8.3_NeuralNetworkLosses.pdf)): Neural Networks: Losses
+- Lecture 8.4 ([video](https://www.youtube.com/watch?v=qCMmuX4uGn0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=39), [pdf](2020/slides/8.4_NeuralNetworksStochasticGradientDescent.pdf)): Neural Networks: Stochastic Gradient Descent
+- Lecture 8.5 ([video](https://www.youtube.com/watch?v=Pz3yKyUYM7k&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=40), [pdf](2020/slides/8.5_NeuralNetworkBackpropagation.pdf)): Neural Networks: Backpropagation
 
 #### Week 5
 - Lecture 9.1 (video, [pdf](2020/slides/9.1_UnsupervisedLearningLatentVariableModels.pdf)): Unsupervised Learning - Latent Variable Models
