@@ -47,7 +47,7 @@ The contents of this page and the video lectures are licensed under a [Creative 
 - Lecture 5.3 ([video](https://www.youtube.com/watch?v=kBt9hPNxpI8&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=23), [pdf](2020/slides/5.3_ModelEvidenceApproximationEmpiricalBayes.pdf)): Model Evidence Approximation/Empirical Bayes
 - Lecture 5.4 ([video](https://www.youtube.com/watch?v=qJ8wGNSNmWU&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=24), [pdf](2020/slides/5.4_ClassificationWithDecisionRegions.pdf)): Classification With Decision Regions
 - Lecture 5.5 ([video](https://www.youtube.com/watch?v=TeXo_3o9W80&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=25), [pdf](2020/slides/5.5_DecisionTheory.pdf)): Decision Theory
-- Lecture 5.6 ([video](https://www.youtube.com/watch?v=FfZJMTdvhA0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=26)): Probabilistic Generative Models
+- Lecture 5.6 ([video](https://www.youtube.com/watch?v=FfZJMTdvhA0&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=26), [pdf](2020/slides/5.6_ProbabilisticGenerativeModels.pdf)): Probabilistic Generative Models
 
 - Lecture 6.1 ([video](https://www.youtube.com/watch?v=R6yNZ4diIQo&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=27), [pdf](2020/slides/6.1_PGMMaximumLikelihood.pdf)): Probabilistic Generative Models: Maximum Likelihood
 - Lecture 6.2 ([video](https://www.youtube.com/watch?v=-5NiWddslNc&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&index=28), [pdf](2020/slides/6.2_PGMDiscreteData.pdf)): Probabilistic Generative Models: Discrete Data (Naive Bayes)
